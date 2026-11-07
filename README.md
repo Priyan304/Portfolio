@@ -1,6 +1,6 @@
-# Yami — Personal Developer Portfolio
+# Priyadharshan — Personal Developer Portfolio
 
-A responsive portfolio with GSAP 3, ScrollTrigger, ScrollSmoother, ScrollToPlugin, and CustomEase, inspired by the typography and cinematic motion of [Huy Nguyen's portfolio](https://ghuynguyen.vercel.app/). Artwork and implementation are original, with Yami's supplied content.
+A responsive portfolio with GSAP 3, ScrollTrigger, ScrollSmoother, ScrollToPlugin, and CustomEase, inspired by the typography and cinematic motion of [Huy Nguyen's portfolio](https://ghuynguyen.vercel.app/). Artwork and implementation are original, with Priyadharshan's supplied content.
 
 ## Run locally
 
