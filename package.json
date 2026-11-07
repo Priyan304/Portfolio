@@ -1,0 +1,16 @@
+{
+  "name": "yami-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "predev": "node prepare-assets.mjs",
+    "dev": "node server.mjs",
+    "start": "node server.mjs",
+    "build": "node build.mjs",
+    "check": "node --check app.js && node --check motion.js && node --check projects.js && node --check server.mjs && node --check prepare-assets.mjs"
+  },
+  "dependencies": {
+    "gsap": "^3.15.0"
+  }
+}
